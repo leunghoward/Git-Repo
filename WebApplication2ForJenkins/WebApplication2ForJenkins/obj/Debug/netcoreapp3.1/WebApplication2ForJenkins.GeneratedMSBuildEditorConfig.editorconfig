@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebApplication2ForJenkins
+build_property.ProjectDir = J:\架构班\.NET跨平台Linux私房课\05 Jenkins从零搭建和全套配置-OnDocker\05 Jenkins从零搭建和全套配置-OnDocker课件、软件、镜像\Git-Repo\WebApplication2ForJenkins\WebApplication2ForJenkins\

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\架构班\\.NET跨平台Linux私房课\\05 Jenkins从零搭建和全套配置-OnDocker\\05 Jenkins从零搭建和全套配置-OnDocker课件、软件、镜像\\Git-Repo\\WebApplication2ForJenkins\\WebApplication2ForJenkins\\WebApplication2ForJenkins.csproj": {}
+  },
+  "projects": {
+    "J:\\架构班\\.NET跨平台Linux私房课\\05 Jenkins从零搭建和全套配置-OnDocker\\05 Jenkins从零搭建和全套配置-OnDocker课件、软件、镜像\\Git-Repo\\WebApplication2ForJenkins\\WebApplication2ForJenkins\\WebApplication2ForJenkins.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\架构班\\.NET跨平台Linux私房课\\05 Jenkins从零搭建和全套配置-OnDocker\\05 Jenkins从零搭建和全套配置-OnDocker课件、软件、镜像\\Git-Repo\\WebApplication2ForJenkins\\WebApplication2ForJenkins\\WebApplication2ForJenkins.csproj",
+        "projectName": "WebApplication2ForJenkins",
+        "projectPath": "J:\\架构班\\.NET跨平台Linux私房课\\05 Jenkins从零搭建和全套配置-OnDocker\\05 Jenkins从零搭建和全套配置-OnDocker课件、软件、镜像\\Git-Repo\\WebApplication2ForJenkins\\WebApplication2ForJenkins\\WebApplication2ForJenkins.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "J:\\架构班\\.NET跨平台Linux私房课\\05 Jenkins从零搭建和全套配置-OnDocker\\05 Jenkins从零搭建和全套配置-OnDocker课件、软件、镜像\\Git-Repo\\WebApplication2ForJenkins\\WebApplication2ForJenkins\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
